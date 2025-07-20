@@ -1,0 +1,13 @@
+#h1 {
+    color: blue;
+    font-family:Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif
+}
+
+#img{
+    width: 300px;
+    height: 500px;
+}
+
+#body{
+    background-color: burlywood
+}
